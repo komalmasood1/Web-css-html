@@ -1,0 +1,47 @@
+.navbar-padding {
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.box_style {
+background-color: rgb(8, 41, 87); 
+color:white;
+}
+
+#titlefont {
+  font-size: 40px;
+}
+
+#menufont {
+  font-size: 20px;
+}
+
+.image_margin {
+  margin: 20px;
+}
+
+.box_1 {
+  height: 100%;
+  padding: 5px;
+  color: #fff;
+  background: rgb(255, 255, 255);
+}
+
+.box_2 {
+  height: 100%;
+  padding: 5px;
+  color: #fff;
+  background: rgb(255, 255, 255);
+}
+
+.margin-top-80 {
+  margin-top: 80px;
+}
+
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
